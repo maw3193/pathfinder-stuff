@@ -1,0 +1,80 @@
+Shadow Projection:
+    School: Necromancy [evil]
+    Level: Sorcerer/Wizard 4
+    Casting time: 1 *minute*
+    Components: S
+    Range: Personal
+    Targets: You
+    Duration: 1 Hour/Level (D)
+    Description: |
+        With this spell, you infuse your life force and psyche into your
+        shadow, giving it independent life and movement as if it were an undead
+        shadow. Your physical body lies comatose while you are projecting your
+        shadow, and your body has no shadow or reflection while the spell is
+        in effect.
+
+        While projecting your shadow, you gain a shadow's darkvision,
+        *defensive abilities*, *fly speed*, *racial stealth modifier*, and
+        *strength damage attack*. You do not gain the creature's create spawn
+        ability, nor its skill ranks or Hit Dice.
+
+        Your shadow has Hit Dice and hit points equal to your own.
+
+        Your shadow projection has the undead type and may be turned or 
+        affected as undead.
+
+        If your shadow projection is slain, you return to your physical body
+        and are immediately reduced to -1 hit points. Your condition becomes
+        dying, and you must begin making Constitution checks to stabilize.
+
+    Fly speed: 40ft
+    Defensive abilities:
+        Incorporeal:
+            + Can only be harmed by other incorporeal creatures, magic weapons,
+              creatures that strike like magic weapons, spells, spell-like
+              abilities, supernatural abilities.
+            + Takes half-damage from all corporeal sources but channel energy
+              and force effects.
+            + Non-damaging spells only work half the time.
+            + Gets deflection AC bonus equal to Charisma bonus.
+            + Can pass through solid objects that it can touch both sides of.
+            + Attacks ignore natural armor, armor and shields (but not force
+              effects).
+            + Not impeded by water.
+            + Cannot fall or take falling damage.
+            - Cannot trip or grapple.
+            + Cannot be tripped or grappled.
+            - Cannot move or manipulate physical objects.
+            + Weightless.
+            + Moves silently - cannot be heard.
+            + No strength score - uses dexterity for melee attacks and CMB.
+            + Cannot be detected by nonvisual natural senses.
+            + Innate sense of direction - move at full speed even when blind. 
+        Undead:
+            + Mental immune: mind-affecting.
+            + Physical immune: bleed, death effect, disease, paralysis, poison,
+              sleep, stun, nonlethal damage, ability drain, energy drain,
+              physical ability score damage, exhaustion, fatigue, most effects
+              that give fortitude saves.
+            - Vulnerable to undead-targeting spells (beware of necromancers)
+            + Immune to living-targeting spells
+    Balance?:
+        + Flight that lasts all day.
+        - Leave unconscious body behind.
+        + Incorporeal body is immune to most damage and resists a lot.
+        + Incorporeal body can pass through solid objects.
+        - Incorporeal body can't touch things - can't use items.
+        + Strength-damaging touch attack.
+        + Stealth bonus in low light.
+        + Moves silently.
+        + Charisma-based deflection AC. Up to 18 AC without mage armor.
+        - (IGNORED) lack of natural armor AC.
+        + Uses dexterity to make melee attacks.
+        + Undead mental immunities.
+        + Undead physical immunities.
+        - Vulnerable to undead-targetting spells.
+        + Immune to living-targetting spells.
+        - CANNOT SPEAK.
+        - CANNOT CAST SPELLS WITH VERBAL COMPONENTS.
+        * Unless silent spell is taken. At which point it is +1 spell level
+          and double casting time.

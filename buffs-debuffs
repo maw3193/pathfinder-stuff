@@ -1,0 +1,68 @@
+Level 1
+=======
+Grease
+------
+Duration 1min/level (D)
+When cast on a person:
+* +10 Escape Artist checks
+* +10 to escape a grapple
+* +10 to avoid being grappled
+
+Mage Armor
+----------
+Duration 1hour/level (D)
++4 Armor bonus to AC
+Incorporeal creatures cannot bypass this armour.
+
+Ray of Enfeeblement
+-------------------
+Duration 1 round/level (+1 for necro)
+Fortitude save for half (save DC is +1 for necro)
+1d6+1 per two caster levels (1d6+3 at level 6)
+Cannot reduce Strength below 1.
+
+Level 2
+=======
+Blindness-deafness
+------------------
+Duration: Permanent (D)
+Inflicts blindness or deafness
+Blind:
+- - -
+* -2 to AC
+* Loses its Dexterity bonus (therefore can be sneak-attacked)
+* -4 penalty to STR and DEX-based skill checks
+* -4 to opposed perception checks
+* All checks based on vision fail
+* All opponents have total concealment (50% miss chance)
+* DC10 acrobatics to move more than half-speed. Fail is prone. Remember the
+  skill check penalty.
+Deaf:
+- - -
+* -4 to initiative
+* -4 to opposed perception checks
+* All sound-based perception checks fail
+* 20% spell failure if verbal components
+
+
+Level 3
+=======
+
+Haste
+-----
+Duration: 1 round/level
+* 1 extra attack when doing a Full Attack. No penalty to BAB.
+* +1 to attack rolls
+* +1 dodge bonus to AC (lost if flat-footed)
+* +1 to Reflex saves
+* +30ft to speed (max of 2x base speed, but that doesn't apply to Medium creatures)
+* Don't forget that this increases jumping distance.
+
+Hold Person (from wand)
+-----------
+Duration: 5 rounds or successful Will save (D)
+Save DC: 16
+* Cannot move, but this doesn't interfere with breathing.
+* Most definitely cannot talk.
+* Cannot fly with wings.
+* Cannot swim. may sink.
