@@ -1,0 +1,198 @@
+*Name* Valdemar Sharpe
+*Alignment* Chaotic Good
+*Player* Jonathan Maw
+*Level* Sorcerer 8
+*Deity* Iomedae
+*Homeland* Lepidstadt, Vieland, Ustalav, Varisia
+*Race* Dhampir
+*Size* 4'6"
+*Weight* Light (minimum that is appropriate)
+*Hair* Black
+*Eyes* Blue, 1/4 creepy.
+
+Ability Scores
+========================
+Ability	Score	Modifier
+Str		9		-1
+Dex		15		+2
+Con		11		0
+Int		14		+2
+Wis		9		-1
+Cha		22		+6
+
+========================
+
+*HP* 38
+*DR* 5/- non-lethal
+*Initiative* 6 = 2(Dex) + 4(feat)
+*Speed* 30'	6 squares
+*AC* 17 = 10 + 4(mage armor) + 2(Dex) + 1(deflection)
+*Touch AC* 13 = 10 + 2(dex) + 1(deflection)
+*Flat-footed AC* 15 = 10 + 4(mage armor) + 1(deflection)
+
+Saving throws
+=============
+*Fortitude* 2 = 2(base) + 0(Con)
+*Reflex* 4 = 2(base) + 2(Dex)
+*Will* 5 = 6(base) - 1(Wis)
+*Misc modifiers* +2 Disease(Race)	+2 Mind-affecting(Race)
+
+=============
+
+*Base Attack Bonus* 4
+*Spell Resistance* -
+*CMB* 3 = 4(BAB) - 1(Str)
+*CMD* 15 = 10 + 4(BAB) - 1(Str) + 2(Dex)
+
+Weapons
+=======
+Melee Touch (spectral hand)
+---------------------------
+*Attack Bonus* 5 = 4(BAB) - 1(Str) +2(hand)
+*Critical* 20 x2
+*Range* 190ft 38sq
+
+Melee Touch
+-----------
+*Attack Bonus* 3 = 4(BAB) - 1(Str)
+*Critical* 20 x2
+*Range* 5ft
+
+Ranged Touch
+------------
+*Attack Bonus* 6 = 4(BAB) + 2(Dex)
+*Critical* 20 x2
+*Range* Varies
+
+=======
+
+Skills
+=============================================================================
++Bluff					20 = 6(Cha) +8(ranks) + 3(class) + 2(Race) + 1(Trait)
++Disguise				7 = 6(Cha) +1(ranks)
++Intimidate				16 = 6(Cha) + 7(ranks) + 3(class)
++Knowledge (Arcana)		7 = 2(Int) + 2(ranks) + 3(class)
++Knowledge (Religion)	9 = 2(Int) + 4(ranks) + 3(class)
++Linguistics			3 = 2(Int) + 1(ranks)
++Spellcraft				10 = 2(Int) + 5(ranks) + 3(class)
++Use Magic Device		17 = 6(Cha) + 8(ranks) + 3(class)
+
+=============================================================================
+
+*Languages* Common, Varisian, Orcish, Celestial, Draconic
+
+Gear
+====
+* Val's magic scarf
+* Dagger
+* Backpack
+  - 6 rations
+  - waterskin
+  - medium tent
+* Translated professor notes
+* Spell component pouch
+* Ring of Protection +1
+* Ring of Spell Knowledge 2
+* Ioun Stone Pink and Green Sphere +2 (equipped)
+* Nasty negative Ioun Stone (unidentified, stored in a lead mug)
+* Wand of Hold Person (DC 14) - 3 charges
+* Wand of Acid Arrow (2 rounds) - 31 charges
+* Wand of Spider Climb (30 minutes) - 28 charges
+* Wand of Command Undead (DC 13, 3 days) - 5 charges
+* 1 Blood Block
+* 1 Inflict Light Wounds(1d8+1)
+* 1 Lesser Restoration(1d4)
+* BAG OF ONYX GEMS
+* Harley's spellbook
+* Eyeglassses
+
+====
+
+Carrying capacity
+========================
+*Light* 30lbs
+*Medium* 60lbs
+*Heavy* 90lbs
+*Lift over head* 90lbs
+*Lift off ground* 180lbs
+*Drag or Push* 450lbs
+
+========================
+
+*Money* 1102.03gp = 110pt + 1gp + 2sp + 83cp
+
+Spells
+======
+Allotment
+----------------------------------
+Level	Known	DC	/day
+0		8		16	-
+1		5		17	8 = 6 + 2(Cha)
+2		3		18	8 = 6 + 2(Cha)
+3		2		19	6 = 5 + 1(Cha)
+4		1		20	4 = 3 + 1(Cha)
+
+----------------------------------
+*Conditional modifiers* +1 Caster Level to Necromancy (class), +1 Save DC to
+                        Necromancy (Feat)
+
+Level 0
+-------
+* Acid Splash
+* Dancing Lights
+* Disrupt Undead
+* Ghost Sound
+* Mage Hand
+* Read Magic
+
+Level 1
+-------
+* Chill Touch (bloodline)
+* Detect Undead (Race, spell-like ability 3/day)
+* Grease
+* Mage Armor
+* Magic Missile
+* Ray of Enfeeblement
+* Vanish
+
+Level 2
+-------
+* Blindness-Deafness
+* Create Pit
+* False Life (bloodline)
+* Spectral Hand
+
+Level 3
+-------
+* Ablative Barrier
+* Haste
+* Vampiric Touch (bloodline)
+
+Level 4
+-------
+* Bestow Curse
+
+======
+
+Feats
+=====
+* Improved Initiative
+* Spell Focus (Necromancy)
+* Natural Charmer
+* Still Spell (+1 level)
+* Combat Casting
+=====
+
+Special Abilities
+=================
+* Low-light vision (Race)
+* Darkvision (Race)
+* Light Sensitivity (Race)
+* Negative Energy Affinity (Race)
+* Rest Level Drain (Race)
+* Detect Undead 3/day (Race)
+
+* Eschew Materials (class)
+* Blood is the life 3+Cha/day
+* Death's gift 5
+=================
