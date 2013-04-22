@@ -22,8 +22,8 @@ Cha		22		+6
 
 ========================
 
-*HP* 38
-*DR* 5/- non-lethal
+*HP* 44
+*DR* 10/- non-lethal
 *Initiative* 6 = 2(Dex) + 4(feat)
 *Speed* 30'	6 squares
 *AC* 17 = 10 + 4(mage armor) + 2(Dex) + 1(deflection)
@@ -32,8 +32,8 @@ Cha		22		+6
 
 Saving throws
 =============
-*Fortitude* 2 = 2(base) + 0(Con)
-*Reflex* 4 = 2(base) + 2(Dex)
+*Fortitude* 3= 3(base) + 0(Con)
+*Reflex* 5 = 3(base) + 2(Dex)
 *Will* 5 = 6(base) - 1(Wis)
 *Misc modifiers* +2 Disease(Race)	+2 Mind-affecting(Race)
 
@@ -50,7 +50,7 @@ Melee Touch (spectral hand)
 ---------------------------
 *Attack Bonus* 5 = 4(BAB) - 1(Str) +2(hand)
 *Critical* 20 x2
-*Range* 190ft 38sq
+*Range* 200ft 40sq
 
 Melee Touch
 -----------
@@ -68,14 +68,14 @@ Ranged Touch
 
 Skills
 =============================================================================
-+Bluff					20 = 6(Cha) +8(ranks) + 3(class) + 2(Race) + 1(Trait)
++Bluff					21 = 6(Cha) +9(ranks) + 3(class) + 2(Race) + 1(Trait)
 +Disguise				7 = 6(Cha) +1(ranks)
-+Intimidate				16 = 6(Cha) + 7(ranks) + 3(class)
++Intimidate				17 = 6(Cha) + 8(ranks) + 3(class)
 +Knowledge (Arcana)		7 = 2(Int) + 2(ranks) + 3(class)
 +Knowledge (Religion)	9 = 2(Int) + 4(ranks) + 3(class)
 +Linguistics			3 = 2(Int) + 1(ranks)
-+Spellcraft				10 = 2(Int) + 5(ranks) + 3(class)
-+Use Magic Device		17 = 6(Cha) + 8(ranks) + 3(class)
++Spellcraft				12 = 2(Int) + 7(ranks) + 3(class)
++Use Magic Device		18 = 6(Cha) + 9(ranks) + 3(class)
 
 =============================================================================
 
@@ -128,13 +128,13 @@ Allotment
 Level	Known	DC	/day
 0		8		16	-
 1		5		17	8 = 6 + 2(Cha)
-2		3		18	8 = 6 + 2(Cha)
-3		2		19	6 = 5 + 1(Cha)
-4		1		20	4 = 3 + 1(Cha)
+2		4		18	8 = 6 + 2(Cha)
+3		3		19	7 = 6 + 1(Cha)
+4		2		20	5 = 4 + 1(Cha)
 
 ----------------------------------
-*Conditional modifiers* +1 Caster Level to Necromancy (class), +1 Save DC to
-                        Necromancy (Feat)
+*Conditional modifiers* +2 Caster Level to Necromancy (class, 1 if no tattoo),
+                        +1 Save DC to Necromancy (Feat)
 
 Level 0
 -------
@@ -160,17 +160,21 @@ Level 2
 * Blindness-Deafness
 * Create Pit
 * False Life (bloodline)
+* Ghoul Touch
 * Spectral Hand
 
 Level 3
 -------
 * Ablative Barrier
+* Dispel Magic
 * Haste
 * Vampiric Touch (bloodline)
 
 Level 4
 -------
+* Animate Dead
 * Bestow Curse
+* Boneshatter
 
 ======
 
@@ -181,6 +185,8 @@ Feats
 * Natural Charmer
 * Still Spell (+1 level)
 * Combat Casting
+* Varisian tattoo (Necromancy)
+
 =====
 
 Special Abilities
@@ -194,5 +200,6 @@ Special Abilities
 
 * Eschew Materials (class)
 * Blood is the life 3+Cha/day
-* Death's gift 5
+* Death's gift 10
+* Grasp of the dead 9d6, DC20
 =================
