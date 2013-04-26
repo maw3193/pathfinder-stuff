@@ -1,0 +1,132 @@
+*Name* Elsbeth Sharpe
+*Alignment* Lawful Good
+*Player* Jonathan Maw
+*Level* Vampire Hunter 9
+*Deity* Iomedae
+*Homeland* Lepidstadt, Vieland, Ustalav, Varisia (originally elsewhere)
+*Race* Half-elf
+*Size* Average
+*Weight* Average
+*Hair* Black
+*Eyes* Brown
+
+Ability Scores
+========================
+Ability	Score	Modifier
+Str		??		??
+Dex		??		??
+Con		??		??
+Int		??		??
+Wis		??		??
+Cha		??		??
+
+========================
+
+*HP* ??
+*DR* ??
+*Initiative* ? = ? + ?
+*Speed* 30'	6 squares
+*AC* ? = 10 + ?
+*Touch AC* ? = 10 + ?(dex) + ?(deflection)
+*Flat-footed AC* ? = 10 + ?
+
+Saving throws
+=============
+*Fortitude* ?= ?(base) + ?(Con)
+*Reflex* ? = ?(base) + ?(Dex)
+*Will* ? = ?(base) + ?(Wis)
+*Misc modifiers* 
+
+=============
+
+*Base Attack Bonus* ?/?
+*Spell Resistance* -
+*CMB* ? = ?(BAB) + ?(Str)
+*CMD* ? = 10 + ?(BAB) + ?(Str) + ?(Dex)
+
+Weapons
+=======
+
+Weapon
+------
+*Attack Bonus* ? = ?(BAB) + ?(Str/Dex) + ?
+*Critical* 19-20 x2
+*Range* ?ft
+
+Ranged Touch
+------------
+*Attack Bonus* ? = ?(BAB) + ?(Dex)
+*Critical* 20 x2
+*Range* Varies
+
+=======
+
+Skills
+=============================================================================
+Acrobatics, Appraise, Bluff, Climb, Craft, Diplomacy, Disable Device,
+Disguise, Escape Artist, Fly, Handle Animal, Heal, Intimidate,
+Knowledge(Arcana), Knowledge(Dungeoneering), Knowledge(Engineering)
+Knowledge(Geography), Knowldge(History), Knowledge(Local), Knowledge(Nature)
+Knowledge(Nobility), Knowledge(Planes), Knowledge(Religion), Linguistics,
+Perception, Perform, Profession, Ride, Sense Motive, Sleight of Hand,
+Spellcraft, Stealth, Survival, Swim, Use Magic Device
+
++skill total = +?(stat) + ?(ranks) +?(misc)
+=============================================================================
+
+*Languages* Common, Elvish, + int modifier in bonus Languages
+
+Gear
+====
+====
+
+Carrying capacity
+========================
+*Light* 30lbs
+*Medium* lightx2 lbs
+*Heavy* lightx3 lbs
+*Lift over head* lightx3 lbs
+*Lift off ground* lightx6 lbs
+*Drag or Push* lightx15 lbs
+
+========================
+
+*Money* ?gp = ptx10 + gp + sp/10 + cp/100 
+
+Spells
+======
+Allotment
+----------------------------------
+Level	Known	DC	/day
+?		?		?	-
+?		?		?	? = ? + ?(Wis)
+?		?		?	? = ? + ?(Wis)
+?		?		?	? = ? + ?(Wis)
+?		?		?	? = ? + ?(Wis)
+
+----------------------------------
+*Conditional modifiers* 
+
+Level 0
+-------
+
+Level 1
+-------
+
+Level 2
+-------
+
+Level 3
+-------
+
+======
+
+Feats
+=====
+
+=====
+
+Special Abilities
+=================
+
+=================
