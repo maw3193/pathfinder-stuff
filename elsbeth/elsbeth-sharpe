@@ -24,7 +24,7 @@ Cha		12		+1
 
 *HP* 75 = 57(9d8) + 18(Con)
 *DR* 2/- Undead(defiant)
-*Initiative* 9 = 5(Dex) + 4(Wis)
+*Initiative* 9 = 5(Dex) + 4(Wis) +4(feat)
 *Speed* 30'	6 squares
 *AC* 19 = 10 + 5(Dex) + 4(Armor)
 *Touch AC* 15 = 10 + 5(dex)
@@ -144,11 +144,28 @@ Level 3
 Feats
 =====
 * Skill Focus(Perception) (half-elf)
-* 
+
+* point-blank shot +1/+1 (l1)
+* deadly aim -2/+4 (l3)
+* precise shot 	(l5)
+* rapid shot -2att (l7)
+* improved Initiative (l9)
+
+* stealth synergy (inq 3)
+* target of opportunity (inq 6)
+* duck and cover (inq 9)
 
 =====
 
 Special Abilities
 =================
+* double judgment +3
+* bane (undead only)
+* add half level to tracking.
+* add wisdom to Initiative.
+* add wisdom to knowledge vs weaknesses.
+* use Wis for bluff intimidate diplomacy.
+* roll twice Bluff Diplomacy Stealth Wis/day.
+* one more inquisition power.
 
 =================
