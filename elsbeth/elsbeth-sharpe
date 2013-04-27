@@ -5,40 +5,41 @@
 *Deity* Iomedae
 *Homeland* Lepidstadt, Vieland, Ustalav, Varisia (originally elsewhere)
 *Race* Half-elf
-*Size* Average
-*Weight* Average
+*Size* 5'4"
+*Weight* 110lbs
 *Hair* Black
-*Eyes* Brown
+*Eyes* Blue
 
 Ability Scores
 ========================
-Ability	Score	Modifier
-Str		12		+1
-Dex		20		+5
-Con		14		+2
-Int		14		+2
-Wis		18		+4
-Cha		12		+1
+Ability Score   Modifier
+Str     12      +1
+Dex     20      +5
+Con     14      +2
+Int     14      +2
+Wis     18      +4
+Cha     12      +1
 
 ========================
 
 *HP* 75 = 57(9d8) + 18(Con)
 *DR* 2/- Undead(defiant)
-*Initiative* 9 = 5(Dex) + 4(Wis) +4(feat)
-*Speed* 30'	6 squares
+*Initiative* 11 = 5(Dex) + 4(Wis) +4(feat) +2(trait)
+*Speed* 30'  6 squares
 *AC* 19 = 10 + 5(Dex) + 4(Armor)
 *Touch AC* 15 = 10 + 5(dex)
 *Flat-footed AC* 14 = 10 + 4(Armor)
 *Conditional Modifiers* +2 AC vs Undead(defiant),
                         25% chance to ignore level drain(deathless),
                         absorb 10 points of harmful channelled energy(deathless)
+                        +1 AC vs attacks that target the throat.
 
 Saving throws
 =============
 *Fortitude* 8 = 6(base) + 2(Con)
 *Reflex* 8 = 3(base) + 5(Dex)
 *Will* 10 = 6(base) + 4(Wis)
-*Misc modifiers* 
+*Misc modifiers* Immune to sleep spells, +2 vs enchantment.
 
 =============
 
@@ -55,12 +56,12 @@ Holy Repeater Crossbow +1
 *Attack Bonus* ? = 6(BAB) + 5(Dex) + 1
 *Damage* 1d6+1 (+2d6 holy)
 *Critical* 19-20 x2
-*Range* ?ft
+*Range* 80ft
 *Conditional modifiers* <30ft range, +1 att, +1dam,
                         rapid shot, -2att,
-						deadly aim, -2att, +4dam,
-						damage judgment, +3dam,
-						justice judgment, +3att,
+                        deadly aim, -2att, +4dam,
+                        damage judgment, +3dam,
+                        justice judgment, +2att,
 
 Ranged Touch
 ------------
@@ -72,24 +73,21 @@ Ranged Touch
 
 Skills
 =============================================================================
-Acrobatics, Appraise, Bluff, Climb, Craft, Diplomacy, Disable Device,
-Disguise, Escape Artist, Fly, Handle Animal, Heal, Intimidate,
-Knowledge(Arcana), Knowledge(Dungeoneering), Knowledge(Engineering)
-Knowledge(Geography), Knowldge(History), Knowledge(Local), Knowledge(Nature)
-Knowledge(Nobility), Knowledge(Planes), Knowledge(Religion), Linguistics,
-Perception, Perform, Profession, Ride, Sense Motive, Sleight of Hand,
-Spellcraft, Stealth, Survival, Swim, Use Magic Device
-7 skills: Bluff, Diplomacy, Intimidate, Knowledge(Religion), Perception
-          Sense Motive, Stealth. Favoured Class Bonus always goes to skills.
-+Bluff               16 = 4(Wis) + 9(ranks) + 3(class)
-+Diplomacy           16 = 4(Wis) + 9(ranks) + 3(class)
-+Intimidate          16 = 4(Wis) + 9(ranks) + 3(class)
-+Knowledge(Religion) 14 = 2(Int) + 9(ranks) + 3(class)
-+Perception          19 = 4(Wis) + 9(ranks) + 3(class) +3(feat)
-+Sense Motive        16 = 4(Wis) + 9(ranks) + 3(class)
-+Stealth             17 = 5(Dex) + 9(ranks) + 3(class)
++Bluff                    16 = 4(Wis) + 9(ranks) + 3(class)
++Craft(Alchemy)            6 = 2(Int) + 1(ranks) + 3(class)
++Craft(Weapons)            6 = 2(Int) + 1(ranks) + 3(class)
++Diplomacy                13 = 1(Cha) + 9(ranks) + 3(class)
++Intimidate               16 = 4(Wis) + 9(ranks) + 3(class) + 4(inq)
++Knowledge(Religion)      14 = 2(Int) + 9(ranks) + 3(class)
++Perception               21 = 4(Wis) + 9(ranks) + 3(class) +2(race) +3(feat)
++Sense Motive             20 = 4(Wis) + 9(ranks) + 3(class) + 4(inq)
++Stealth                  17 = 5(Dex) + 9(ranks) + 3(class)
++Survival                 16 = 4(Wis) + 9(ranks) + 3(class)
++Use Magic Device          8 = 1(Cha) + 7(ranks)
 
-*Conditional Modifiers* +4(Wis) to knowledge skills about weaknesses
+*Conditional Modifiers* +4(Wis) to knowledge skills about weaknesses,
+                        +4(inq) to track things.
+                        +9(inq) to craft silver equipment to bypass DR.
 
 =============================================================================
 
@@ -97,57 +95,89 @@ Spellcraft, Stealth, Survival, Swim, Use Magic Device
 
 Gear
 ====
-* Holy Repeater Crossbow +1 18550gp
-* Deathless Undead-defiant studded leather 22875gp
+* Holy Repeating Crossbow +1 18550gp, 6lbs
+* Deathless Undead-defiant studded leather 4325gp, worn
+* Neck guard 10gp, worn
+* 5x silver heartstake repeating crossbow bolts 110gp, 3lbs
+* 70x repeating crossbow bolts 14gp, 14lbs
+* Traveler's Any-Tool (unfolds to any simple tool, +2 to craft) 250gp, 2lbs
+* Broom of Flying 17000gp, 3lbs
+* 2000gp incense
+* 2000gp diamond dust
+* Wand of Cure Light Wounds, 50 charges, 750gp
+* Wand of Inflict Light Wounds, 50 charges, 750gp
+* 1x Silversheen 250gp
+* Wooden Holy Symbol of Iomedae 1gp
+
 ====
 
 Carrying capacity
 ========================
-*Light* 30lbs
-*Medium* lightx2 lbs
-*Heavy* lightx3 lbs
-*Lift over head* lightx3 lbs
-*Lift off ground* lightx6 lbs
-*Drag or Push* lightx15 lbs
+*Light* 43 lbs
+*Medium* 86 lbs
+*Heavy* 130 lbs
+*Lift over head* 130 lbs
+*Lift off ground* 260 lbs
+*Drag or Push* 650 lbs
 
 ========================
 
-*Money* 23125gp = 230ptx10 + 125gp + 0sp/10 + 0cp/100 
+*Money* 0gp
 
 Spells
 ======
 Allotment
 ----------------------------------
-Level	Known	DC	/day
-0		6		14	-
-1		5		15	6 = 5 + 1(Wis)
-2		4		16	5 = 4 + 1(Wis)
-3		4		17	4 = 3 + 1(Wis)
+Level   Known   DC      /day
+0       6       14      -
+1       5       15      6 = 5 + 1(Wis)
+2       4       16      5 = 4 + 1(Wis)
+3       4       17      4 = 3 + 1(Wis)
 
 ----------------------------------
 *Conditional modifiers* 
 
 Level 0
 -------
+* Brand
+* Detect Magic
+* Guidance
+* Light
+* Sift
+* Stabilize
 
 Level 1
 -------
+* Cure Light Wounds
+* Inflict Light Wounds
+* Detect Evil
+* Detect Undead
+* Divine Favour
 
 Level 2
 -------
+* Acute Senses
+* Follow Aura
+* See Invisibility
+* Spiritual Weapon (+10/+5 1d8+3 19-20/x2)
 
 Level 3
 -------
+* Coordinated Effort
+* Dispel Magic
+* Litany of Righteousness
+* Searing Light
 
 ======
 
 Feats
 =====
+* Trait Elven Reflexes, +2 initiative (half-elf)
 * Skill Focus(Perception) (half-elf)
 
 * point-blank shot +1/+1 (l1)
 * deadly aim -2/+4 (l3)
-* precise shot 	(l5)
+* precise shot (l5)
 * rapid shot -2att (l7)
 * improved Initiative (l9)
 
@@ -159,13 +189,20 @@ Feats
 
 Special Abilities
 =================
-* double judgment +3
-* bane (undead only)
-* add half level to tracking.
-* add wisdom to Initiative.
-* add wisdom to knowledge vs weaknesses.
-* use Wis for bluff intimidate diplomacy.
+* double judgment
+  * +4 destruction
+  * +4 healing
+  * +2 justice
+  * +4 piercing
+  * +2 protection
+  * +2 purity
+  * +2 resiliency
+  * +8 resistance
+  * smiting, weapon is magic and silver
+* bane (undead only), can be given to others.
 * roll twice Bluff Diplomacy Stealth Wis/day.
-* one more inquisition power.
+* Word of Anathema (curses with -4) 1/day.
+* Sun Strike: swift action, weapon deals 1d6 to creatures susceptible to
+  sunlight. swift action, level rounds/day.
 
 =================

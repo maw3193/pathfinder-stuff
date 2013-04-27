@@ -1,6 +1,44 @@
 Hit die:d8
-Skill points: 4+Int(?)
+Skill points: 6+Int
 Base attack:3/4
 Saves: Good Fort, Bad Ref, Good Will
 Proficient in repeater crossbow and deity weapon
 Pick feats and spells
+Special abilities:
+* Domain/inquisition
+* Judgment /day increases at 1,4,7,10,13,16,19
+  * Destruction: 1+1/3level to weapon damage.
+  * Healing: 1+1/3level fast healing.
+  * Justice: 1+1/5level att. At 10th level, double bonus on confirming crits.
+  * Piercing: 1+1/3level concentration & CL vs spell resistance.
+  * Protection: 1+1/5level to AC. At 10th level, double against confirming
+    crits.
+  * Purity: 1+1/5level to saves. At 10th level, bonus doubled vs. disease and
+    energy drain.
+  * Resiliency: 1+1/5level to DR/magic. At 10th, is also DR/evil or DR/chaotic.
+  * Resistance: 2+2/3level to energy resistance. Acid/Cold/Elec/Fire/Sonic.
+  * Smiting: Weapon counts as magic. At 6th, weapon counts as silver. At 10th,
+    weapon counts as adamantine.
+* Monster Lore: Add Wis to knowledge checks about weaknesses.
+* Stern gaze: Add half level to intimidate and sense motive.
+* Cunning Initiative: Add Wis to initiative checks.
+* Silversmith: Add level to Craft/Spellcraft on making silver items to bypass
+  DR.
+* Track: Add half level to Survival when following tracks.
+* Solo Tactics: Use teamwork feats without allies having it.
+* Teamwork Feat: One feat every 3 levels, latest one can be swapped
+  Wis/day as a standard action.
+* Bane: Swift action to add bane, lasts level rounds/day. VH is undead
+  only, but can be given to others (Bane gives +2 to att/dam, and 2d6 extra
+  damage)
+* Sun Strike: Swift action, level rounds/day. Shines like a sun rod. Deals +1d6
+  damage to creatures susceptible/vulnerable to sunlight (spectres, vampires,
+  wraiths, oozes, fungi)
+* Second Judgment: 2 judgments active at once, can only swap one at once.
+---
+
+Heresy inquisition:
+* Wis-based Bluff and Intimidate.
+* 4th-level roll twice on Bluff, Diplomacy, Stealth Wis/day
+* 8th-level Word of Anathema: 1 minute -4 on all checks, 60ft range.
+  1/day
