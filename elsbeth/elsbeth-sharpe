@@ -77,7 +77,7 @@ Skills
 +Craft(Alchemy)            6 = 2(Int) + 1(ranks) + 3(class)
 +Craft(Weapons)            6 = 2(Int) + 1(ranks) + 3(class)
 +Diplomacy                13 = 1(Cha) + 9(ranks) + 3(class)
-+Intimidate               16 = 4(Wis) + 9(ranks) + 3(class) + 4(inq)
++Intimidate               20 = 4(Wis) + 9(ranks) + 3(class) + 4(inq)
 +Knowledge(Religion)      14 = 2(Int) + 9(ranks) + 3(class)
 +Perception               21 = 4(Wis) + 9(ranks) + 3(class) +2(race) +3(feat)
 +Sense Motive             20 = 4(Wis) + 9(ranks) + 3(class) + 4(inq)
