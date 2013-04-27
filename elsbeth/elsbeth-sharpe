@@ -53,15 +53,18 @@ Weapons
 
 Holy Repeater Crossbow +1
 ------
-*Attack Bonus* ? = 6(BAB) + 5(Dex) + 1
+*Attack Bonus* 12 = 6(BAB) + 5(Dex) + 1
 *Damage* 1d6+1 (+2d6 holy)
 *Critical* 19-20 x2
 *Range* 80ft
 *Conditional modifiers* <30ft range, +1 att, +1dam,
                         rapid shot, -2att,
                         deadly aim, -2att, +4dam,
-                        damage judgment, +3dam,
-                        justice judgment, +2att,
+                        damage judgment(swift), +4dam, (sacred)
+                        justice judgment(swift), +2att, (sacred)
+                        Undead bane(swift), +2att, +2d6+2dam, (enh.)
+                        Sun Strike(swift), +1d6dam,
+                        Divine Favor(standard), +3att, +3dam (luck)
 
 Ranged Touch
 ------------
@@ -152,7 +155,7 @@ Level 1
 * Inflict Light Wounds
 * Detect Evil
 * Detect Undead
-* Divine Favour
+* Divine Favor
 
 Level 2
 -------
