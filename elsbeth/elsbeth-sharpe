@@ -27,9 +27,9 @@ Cha     12      +1
 *DR* 2/- Undead(defiant)
 *Initiative* 15 = 5(Dex) + 4(Wis) +4(feat) +2(trait)
 *Speed* 30'  6 squares
-*AC* 19 = 10 + 5(Dex) + 4(Armor)
+*AC* 18 = 10 + 5(Dex) + 3(Armor)
 *Touch AC* 15 = 10 + 5(dex)
-*Flat-footed AC* 14 = 10 + 4(Armor)
+*Flat-footed AC* 13 = 10 + 3(Armor)
 *Conditional Modifiers* +2 AC vs Undead(defiant),
                         25% chance to ignore level drain(deathless),
                         absorb 10 points of harmful channelled energy(deathless)
@@ -100,7 +100,6 @@ Gear
 ====
 * Holy Repeating Crossbow +1 18550gp, 6lbs
 * Deathless Undead-defiant studded leather 4325gp, worn
-* Neck guard 10gp, worn
 * 5x heartstake repeating crossbow bolts 100gp, 3lbs
 * 70x repeating crossbow bolts 14gp, 14lbs
 * Traveler's Any-Tool (unfolds to any simple tool, +2 to craft) 250gp, 2lbs
