@@ -61,7 +61,7 @@ Saving throws
 
 **Reflex** 7 = 3(base) + 2(Dex) + 2(resistance)
 
-**Will** 7 = 6(base) - 1(Wis) + 2(resistance)
+**Will** 5 = 6(base) - 1(Wis) + 2(resistance) - 2(sanity)
 
 **Misc modifiers** +2 Disease(Race)	+2 Mind-affecting(Race)
 
