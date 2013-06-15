@@ -40,7 +40,7 @@ Cha		22		+6
 
 ========================
 
-**HP** 44
+**HP** 50
 
 **DR** 10/- non-lethal
 
@@ -61,19 +61,19 @@ Saving throws
 
 **Reflex** 7 = 3(base) + 2(Dex) + 2(resistance)
 
-**Will** 5 = 6(base) - 1(Wis) + 2(resistance) - 2(sanity)
+**Will** 6 = 7(base) - 1(Wis) + 2(resistance) - 2(sanity)
 
 **Misc modifiers** +2 Disease(Race)	+2 Mind-affecting(Race)
 
 =============
 
-**Base Attack Bonus** 4
+**Base Attack Bonus** 5
 
 **Spell Resistance** -
 
-**CMB** 3 = 4(BAB) - 1(Str)
+**CMB** 4 = 5(BAB) - 1(Str)
 
-**CMD** 15 = 10 + 4(BAB) - 1(Str) + 2(Dex)
+**CMD** 16 = 10 + 5(BAB) - 1(Str) + 2(Dex)
 
 Weapons
 =======
@@ -81,16 +81,16 @@ Weapons
 Melee Touch (spectral hand)
 ---------------------------
 
-**Attack Bonus** 5 = 4(BAB) - 1(Str) +2(hand)
+**Attack Bonus** 6 = 5(BAB) - 1(Str) +2(hand)
 
 **Critical** 20 x2
 
-**Range** 210ft 42sq
+**Range** 220ft 44sq
 
 Melee Touch
 -----------
 
-**Attack Bonus** 3 = 4(BAB) - 1(Str)
+**Attack Bonus** 4 = 5(BAB) - 1(Str)
 
 **Critical** 20 x2
 
@@ -99,7 +99,7 @@ Melee Touch
 Ranged Touch
 ------------
 
-**Attack Bonus** 6 = 4(BAB) + 2(Dex)
+**Attack Bonus** 7 = 5(BAB) + 2(Dex)
 
 **Critical** 20 x2
 
@@ -110,15 +110,15 @@ Ranged Touch
 Skills
 =============================================================================
 
-* **Bluff**                21 = 6(Cha) +9(ranks) + 3(class) + 2(Race) + 1(Trait)
-* **Diplomacy**             4 = 6(Cha) - 2(creepy)
+* **Bluff**                22 = 6(Cha) +10(ranks) + 3(class) + 2(Race) + 1(Trait)
+* **Diplomacy**             5 = 6(Cha) +1(ranks) - 2(creepy)
 * **Disguise**              7 = 6(Cha) + 1(ranks)
 * **Intimidate**           19 = 6(Cha) + 8(ranks) + 3(class) + 2(creepy)
 * **Knowledge (Arcana)**    7 = 2(Int) + 2(ranks) + 3(class)
 * **Knowledge (Religion)**  9 = 2(Int) + 4(ranks) + 3(class)
 * **Linguistics**           3 = 2(Int) + 1(ranks)
-* **Spellcraft**           12 = 2(Int) + 7(ranks) + 3(class)
-* **Use Magic Device**     18 = 6(Cha) + 9(ranks) + 3(class)
+* **Spellcraft**           14 = 2(Int) + 9(ranks) + 3(class)
+* **Use Magic Device**     19 = 6(Cha) + 10(ranks) + 3(class)
 
 =============================================================================
 
@@ -143,11 +143,10 @@ Gear
 * Nasty negative Ioun Stone (unidentified, stored in a lead mug)
 * Wand of Hold Person (DC 14) - 3 charges
 * Wand of Acid Arrow (2 rounds) - 31 charges
-* Wand of Spider Climb (30 minutes) - 28 charges
-* Wand of Command Undead (DC 13, 3 days) - 5 charges
+* Wand of Spider Climb (30 minutes) - 26 charges
+* Wand of Command Undead (DC 13, 3 days) - 4 charges
+* Wand of Cure Light Wounds - 3 charges
 * 1 Blood Block
-* 1 Inflict Light Wounds(1d8+1)
-* 1 Lesser Restoration(1d4)
 * Harley's spellbook
 * Eyeglassses
 * Scroll of Control Undead.
@@ -177,17 +176,19 @@ Spells
 Allotment
 ----------------------------------
 
-Level	Known	DC	/day
+Level   Known   DC  /day
 
-0		8		16	-
+0       9       16  -
 
-1		5		17	8 = 6 + 2(Cha)
+1       5       17  8 = 6 + 2(Cha)
 
-2		4		18	8 = 6 + 2(Cha)
+2       4       18  8 = 6 + 2(Cha)
 
-3		3		19	7 = 6 + 1(Cha)
+3       3       19  7 = 6 + 1(Cha)
 
-4		2		20	5 = 4 + 1(Cha)
+4       2       20  6 = 5 + 1(Cha)
+
+5       1       21  4 = 3 + 1(Cha)
 
 ----------------------------------
 
@@ -198,6 +199,7 @@ Level 0
 -------
 * Acid Splash
 * Dancing Lights
+* Detect Magic
 * Disrupt Undead
 * Ghost Sound
 * Mage Hand
@@ -210,9 +212,9 @@ Level 1
 * Chill Touch (bloodline)
 * Detect Undead (Race, spell-like ability 3/day)
 * Grease
+* Liberating Command
 * Mage Armor
 * Magic Missile
-* Ray of Enfeeblement
 * Vanish
 
 Level 2
@@ -235,6 +237,10 @@ Level 4
 * Bestow Curse
 * Boneshatter
 * Fear
+
+Level 5
+-------
+* Teleport
 
 ======
 
@@ -261,6 +267,6 @@ Special Abilities
 * Eschew Materials (class)
 * Blood is the life 3+Cha/day
 * Death's gift 10
-* Grasp of the dead 9d6, DC20
+* Grasp of the dead 10d6, DC21
 
 =================
